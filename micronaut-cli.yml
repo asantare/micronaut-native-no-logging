@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, aws-lambda, aws-lambda-events-serde, aws-lambda-handler-default, graalvm, gradle, http-client, http-client-test, kotest, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, properties, readme, serialization-jackson, shade, x86]
